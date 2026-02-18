@@ -235,6 +235,6 @@ This makes it suitable as a learning project for real-world agent system design.
 
 ---
 
-## 📄 License
+## Author
 
-Add your preferred license (MIT/Apache-2.0/etc.) to formalize usage terms.
+Ramandeep Kaur
