@@ -1,7 +1,7 @@
 # CodeClassic – AI-Powered Engineering Project Generator
 
-CodeClassic is an **agentic AI system** that converts a natural-language idea into a structured engineering plan and actionable file-level implementation steps.  
-It demonstrates how to orchestrate multiple LLM-powered agents with **LangGraph**, typed state models, and tool-enabled execution.
+CodeClassic is an agentic AI system that converts a natural-language idea into a structured engineering plan and actionable file-level implementation steps.
+It demonstrates how to orchestrate multiple LLM-powered agents with LangGraph, typed state models, and tool-enabled execution.
 
 ---
 
