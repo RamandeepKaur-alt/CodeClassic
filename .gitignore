@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Runtime generated output
+generated_project/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
